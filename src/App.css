@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+
+body, div, a, p, ul, li, h1, h2, h3, h4, header, span, main, form, section, input{
+    margin: 0;
+    padding: 0;
+}
